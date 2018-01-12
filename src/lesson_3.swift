@@ -4,8 +4,8 @@ var nick = "D";
 var age = 21;
 let city = "Zaragoza";
 var change = true;
-let cars = {"Audi", "Mercedes", "BMW"};
-let carPrices = {"Audi": 30000, "Mercedes": 28000, "BMW": 35000}
+let cars = ["Audi", "Mercedes", "BMW"];
+let carPrices = ["Audi": 30000, "Mercedes": 28000, "BMW": 35000];
 let position = (1,1);
 
 
